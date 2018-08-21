@@ -1,0 +1,15 @@
+{
+  "name": "passportlocalstrategy",
+  "version": "1.0.0",
+  "description": "A demo login form using Passport.js",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bibintomj/PassportLocalStrategy.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
